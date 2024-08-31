@@ -816,7 +816,9 @@ main{
     .anggota2{
       text-shadow: 0 3px 15px rgba(255, 255, 255, 0.8);
     }
-
+	#twi{
+      display: none;
+    }
     /* .names{
 
     } */
